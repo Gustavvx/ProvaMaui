@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova", "Prova\Prova.csproj", "{BF723165-451B-470C-8F8A-3D40A0F86DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{4E3B64C5-D5D5-42BC-9141-5BA5A319ABC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integracao", "Integracao\Integracao.csproj", "{9F1D3D7C-D929-47E8-8706-02D240E2CCD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF723165-451B-470C-8F8A-3D40A0F86DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF723165-451B-470C-8F8A-3D40A0F86DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF723165-451B-470C-8F8A-3D40A0F86DBC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BF723165-451B-470C-8F8A-3D40A0F86DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF723165-451B-470C-8F8A-3D40A0F86DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF723165-451B-470C-8F8A-3D40A0F86DBC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4E3B64C5-D5D5-42BC-9141-5BA5A319ABC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3B64C5-D5D5-42BC-9141-5BA5A319ABC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3B64C5-D5D5-42BC-9141-5BA5A319ABC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3B64C5-D5D5-42BC-9141-5BA5A319ABC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1D3D7C-D929-47E8-8706-02D240E2CCD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1D3D7C-D929-47E8-8706-02D240E2CCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1D3D7C-D929-47E8-8706-02D240E2CCD0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9F1D3D7C-D929-47E8-8706-02D240E2CCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1D3D7C-D929-47E8-8706-02D240E2CCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1D3D7C-D929-47E8-8706-02D240E2CCD0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {907663B3-A69F-4F54-B011-5C2871746D4E}
+	EndGlobalSection
+EndGlobal
